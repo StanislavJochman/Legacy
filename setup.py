@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'Library implements version functionality for Python 3.11 due
 
 # Setting up
 setup(
-    name="Legacy",
+    name="LegacyVersion",
     version=VERSION,
     author="Stanislav Jochman",
     author_email="<s.jochman@gmail.com>",
