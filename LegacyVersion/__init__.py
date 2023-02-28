@@ -1,1 +1,1 @@
-from Legacy.LegacyCode import LegacyVersion
+from LegacyVersion.LegacyCode import LegacyVersion
